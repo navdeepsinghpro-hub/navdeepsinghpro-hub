@@ -1,29 +1,27 @@
-<h1 align="center">Hi 👋, I'm Navdeep Singh</h1>
-<h3 align="center">A passionate learner from india</h3>
+# 💫 About Me:
+🔭 I’m currently working on logic building<br>🌱 I’m currently learning python<br>💬 Ask me about anything<br>📫 How to reach me navdeepsinghpro@gmail.com<br>⚡ Fun fact i can solve cube and a allrounder cricketer
 
-<img align="right" alt="coding" width="400" src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navdeepsinghpro-hub&label=Profile%20views&color=0e75b6&style=flat" alt="navdeepsinghpro-hub" /> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/navdeepsingh94640) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Navdeep Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navdeepsinghpro@gmail.com) 
 
-- 🌱 I’m currently learning **Python, AI/ML**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=navdeepsinghpro-hub&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=navdeepsinghpro-hub&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=navdeepsinghpro-hub&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 💬 Ask me about **HEHE**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=navdeepsinghpro-hub&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **navdeepsinghpro@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
-- ⚡ Fun fact **I can solve cube and a allrounder cricketer**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=navdeepsinghpro-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/navdeepsingh94640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navdeepsingh94640" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/ygi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ygi" height="30" width="40" /></a>
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=navdeepsinghpro-hub&icon=4&color=1)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navdeepsinghpro-hub&show_icons=true&locale=en&layout=compact" alt="navdeepsinghpro-hub" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navdeepsinghpro-hub&show_icons=true&locale=en" alt="navdeepsinghpro-hub" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navdeepsinghpro-hub&" alt="navdeepsinghpro-hub" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
