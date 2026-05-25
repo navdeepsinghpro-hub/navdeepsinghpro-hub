@@ -42,7 +42,7 @@
 ---
 
 # 💫 Hi 👋, I'm Navdeep Singh
-**A passionate learner || Stuydent || From India**
+**A passionate learner || Student || From India**
 
 - 🔭 **I’m currently working on:** Logic building
 - 🌱 **I’m currently learning:** RAYAT BAHRA
