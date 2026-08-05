@@ -61,6 +61,42 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏠 House Price Prediction
+
+**Python | Pandas | NumPy | Scikit-learn | Streamlit | July 2026**
+
+End-to-end machine learning project for predicting house prices using regression algorithms.
+
+- 🧹 Cleaned and preprocessed real-world housing data
+- 📊 Performed EDA and feature engineering to improve model performance
+- 🤖 Trained and compared multiple regression models to select the best one
+- 🌐 Deployed the final model with a user-friendly Streamlit interface for instant predictions
+
+<td width="50%" valign="top">
+
+### ❤️ Heart Disease Prediction
+
+**Python | Pandas | NumPy | Scikit-learn | Streamlit | July 2026**
+
+End-to-end machine learning application for predicting heart disease using patient health data.
+
+- 🤖 Developed a Logistic Regression model achieving **86% prediction accuracy**
+- 📊 Performed data cleaning, preprocessing, feature engineering, and EDA
+- 📈 Evaluated model performance using classification metrics and confusion matrix
+- 🌐 Deployed the model with a responsive Streamlit interface for instant predictions
+
+</td>
+
+</tr>
+
 # 💻 Tech Stack:
 
 **Languages**
