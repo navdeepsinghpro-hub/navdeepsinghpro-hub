@@ -21,7 +21,7 @@
 </p>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF4444&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Nvadeep+%F0%9F%91%8B;Empty.+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF4444&center=true&vCenter=true&width=700&lines=Hey+there!+I%27m+Navdeep+%F0%9F%91%8B;Empty.+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
@@ -41,15 +41,21 @@
 
 ---
 
-# 💫 Hi 👋, I'm Navdeep Singh
-**A passionate learner || Student || From India**
+## 👩‍💻 About Me
 
-- 🔭 **I’m currently working on:** Logic building
-- 🌱 **I’m currently learning:** RAYAT BAHRA
-- 💬 **Ask me about:** Python, Github
-- 📫 **How to reach me:** navdeepsinghpro@gmail.com
-- 😄 **Pronouns:** Mr. Navdeep
-- ⚡ **Fun fact:** I love to play cricket
+<div align="center">
+  
+| 🧑‍💻 **Name** | Navdeep Singh |
+| 🎓 **University** | Rayat Bahra Professional University |
+| 📊 **CGPA** | 8 / 10 (up to Sem 2) |
+| 📍 **Location** | Punjab, India |
+| 💼 **Role** | AI & ML Developer |
+| 📧 **Email** | navdeepsinghpro@gmail.com |
+| 💡 **Passions** | ML Developer |
+| 🔨 **Currently** | Learning Deep Learning |
+| ⚡ **Fun Fact** | I love to play cricket |
+
+</div>
 
 ---
 
