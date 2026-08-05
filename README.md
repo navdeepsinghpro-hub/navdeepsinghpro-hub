@@ -64,7 +64,6 @@
 ## 🚀 Featured Projects
 
 <table width="100%">
-
 <tr>
 
 <td width="50%" valign="top">
@@ -79,6 +78,8 @@ End-to-end machine learning project for predicting house prices using regression
 - 📊 Performed EDA and feature engineering to improve model performance
 - 🤖 Trained and compared multiple regression models to select the best one
 - 🌐 Deployed the final model with a user-friendly Streamlit interface for instant predictions
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -96,6 +97,7 @@ End-to-end machine learning application for predicting heart disease using patie
 </td>
 
 </tr>
+</table>
 
 # 💻 Tech Stack:
 
