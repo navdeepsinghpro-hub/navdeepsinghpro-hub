@@ -44,7 +44,9 @@
 ## 👩‍💻 About Me
 
 <div align="center">
-  
+
+| | |
+|:---|:---|
 | 🧑‍💻 **Name** | Navdeep Singh |
 | 🎓 **University** | Rayat Bahra Professional University |
 | 📊 **CGPA** | 8 / 10 (up to Sem 2) |
