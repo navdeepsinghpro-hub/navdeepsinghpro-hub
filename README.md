@@ -49,7 +49,6 @@
 |:---|:---|
 | 🧑‍💻 **Name** | Navdeep Singh |
 | 🎓 **University** | Rayat Bahra Professional University |
-| 📊 **CGPA** | 8 / 10 (up to Sem 2) |
 | 📍 **Location** | Punjab, India |
 | 💼 **Role** | AI & ML Developer |
 | 📧 **Email** | navdeepsinghpro@gmail.com |
